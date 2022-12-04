@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C, C++, Java, PHP, Android, MERN**
+- 💬 Ask me about **C, C++, Java, PHP,  MERN**
 
 - 📫 How to reach me **sahabandumehara@gmail.com**
 
