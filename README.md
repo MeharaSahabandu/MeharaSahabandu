@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mehara Sahabandu</h1>
-<h3 align="center">An Undergraduate from SLIIT</h3>
+<h3 align="center">Software Engineering Undergraduate at SLIIT</h3>
 
 
 
