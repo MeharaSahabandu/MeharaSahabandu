@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mehara Sahabandu</h1>
-<h3 align="center">Software Engineering Undergraduate at SLIIT</h3>
+<h3 align="center">Third Year Software Engineering Undergraduate at SLIIT</h3>
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **C, C++, Java, PHP,  MERN**
 
