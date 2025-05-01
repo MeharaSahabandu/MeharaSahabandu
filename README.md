@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mehara Sahabandu</h1>
-<h3 align="center">A Software Engineering Graduate - Site Reliability Engineer</h3>
+<h3 align="center">Software Engineering Graduate | Site Reliability Engineer</h3>
 
 
 
