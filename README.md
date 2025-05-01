@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **C, C++, Java, PHP,  MERN**
 
