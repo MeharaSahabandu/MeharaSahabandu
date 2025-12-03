@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **C, C++, Java, PHP,  MERN**
+- 💬 Ask me about **C, C++, Java, PHP,  MERN, ReactNative**
 
 - 📫 How to reach me **sahabandumehara@gmail.com**
 
