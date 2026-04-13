@@ -12,6 +12,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-sahabandumehara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahabandumehara@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-about--mehara.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-mehara.vercel.app)
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+
 </div>
 
 ---
@@ -65,14 +69,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
-
-*`> Always be shipping. Always be learning.`*
-
-![Profile Views](https://komarev.com/ghpvc/?username=meharasahabandu&color=00d4ff&style=flat-square&label=profile+views)
-
-</div>
