@@ -2,7 +2,7 @@
 
 # Mehara Sahabandu
 
-**Site Reliability Engineer · Software Engineer**
+**Site Reliability Engineer · Software Engineer · AI/ML Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehara-sahabandu)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:sahabandumehara@gmail.com)
