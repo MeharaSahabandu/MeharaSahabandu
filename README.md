@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehara_Sahabandu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehara-sahabandu)
 [![Gmail](https://img.shields.io/badge/Gmail-sahabandumehara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahabandumehara@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-about--mehara.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-mehara.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehara-sahabandu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-mehara.vercel.app)
 
 <br/>
 
