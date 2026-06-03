@@ -55,6 +55,6 @@
 
 <div align="center">
 
-<img width="58%" src="https://streak-stats.demolab.com?user=meharasahabandu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
+<img width="58%" src="https://github-readme-streak-stats-eight.vercel.app?user=MeharaSahabandu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
 
 </div>
